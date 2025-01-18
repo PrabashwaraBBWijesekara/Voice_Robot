@@ -1,2 +1,2 @@
 # Voice_Robot
-Gazebo robot is controlled by human voice commands.
+A Gazebo robot is controlled by human voice commands.
