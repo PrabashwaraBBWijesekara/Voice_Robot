@@ -1,0 +1,42 @@
+[0.012s] Invoking command in '/home/prabashwara/voice_ws/build/voice_control_robot_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake /home/prabashwara/voice_ws/src/voice_control_robot_package -DCMAKE_INSTALL_PREFIX=/home/prabashwara/voice_ws/install/voice_control_robot_package
+[0.072s] -- The C compiler identification is GNU 11.4.0
+[0.132s] -- The CXX compiler identification is GNU 11.4.0
+[0.141s] -- Detecting C compiler ABI info
+[0.216s] -- Detecting C compiler ABI info - done
+[0.223s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.224s] -- Detecting C compile features
+[0.224s] -- Detecting C compile features - done
+[0.227s] -- Detecting CXX compiler ABI info
+[0.315s] -- Detecting CXX compiler ABI info - done
+[0.323s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.324s] -- Detecting CXX compile features
+[0.324s] -- Detecting CXX compile features - done
+[0.328s] -- Found ament_cmake: 2.0.6 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.495s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.588s] -- Found ament_lint_auto: 0.14.4 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.664s] -- Added test 'lint_cmake' to check CMake code style
+[0.665s] -- Added test 'xmllint' to check XML markup files
+[0.667s] -- Configuring done
+[0.670s] -- Generating done
+[0.671s] -- Build files have been written to: /home/prabashwara/voice_ws/build/voice_control_robot_package
+[0.676s] Invoked command in '/home/prabashwara/voice_ws/build/voice_control_robot_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake /home/prabashwara/voice_ws/src/voice_control_robot_package -DCMAKE_INSTALL_PREFIX=/home/prabashwara/voice_ws/install/voice_control_robot_package
+[0.679s] Invoking command in '/home/prabashwara/voice_ws/build/voice_control_robot_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --build /home/prabashwara/voice_ws/build/voice_control_robot_package -- -j12 -l12
+[0.720s] Invoked command in '/home/prabashwara/voice_ws/build/voice_control_robot_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --build /home/prabashwara/voice_ws/build/voice_control_robot_package -- -j12 -l12
+[0.758s] Invoking command in '/home/prabashwara/voice_ws/build/voice_control_robot_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --install /home/prabashwara/voice_ws/build/voice_control_robot_package
+[0.765s] -- Install configuration: ""
+[0.765s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/package_run_dependencies/voice_control_robot_package
+[0.765s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/parent_prefix_path/voice_control_robot_package
+[0.765s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.sh
+[0.765s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.dsv
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.sh
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.dsv
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.bash
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.sh
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.zsh
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.dsv
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.dsv
+[0.766s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/packages/voice_control_robot_package
+[0.767s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig.cmake
+[0.767s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig-version.cmake
+[0.767s] -- Installing: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.xml
+[0.770s] Invoked command in '/home/prabashwara/voice_ws/build/voice_control_robot_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --install /home/prabashwara/voice_ws/build/voice_control_robot_package

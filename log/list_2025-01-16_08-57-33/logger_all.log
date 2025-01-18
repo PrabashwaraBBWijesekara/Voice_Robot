@@ -1,0 +1,56 @@
+[0.150s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/prabashwara/voice_ws']
+[0.150s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/prabashwara/voice_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7055b0984d60>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7055b094fd00>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7055b094fd00>>, mixin_verb=('list',))
+[0.392s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.393s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.393s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.393s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.393s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.393s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/prabashwara/voice_ws'
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['ignore', 'ignore_ament_install']
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'ignore'
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'ignore_ament_install'
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['colcon_pkg']
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'colcon_pkg'
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['colcon_meta']
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'colcon_meta'
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['ros']
+[0.393s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'ros'
+[0.425s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['cmake', 'python']
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'cmake'
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'python'
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extensions ['python_setup_py']
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws) by extension 'python_setup_py'
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/build) by extension 'ignore'
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/build) ignored
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/install) by extension 'ignore'
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/install) ignored
+[0.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/log) by extension 'ignore'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/log) ignored
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'ignore'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'ignore_ament_install'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['colcon_pkg']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'colcon_pkg'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['colcon_meta']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'colcon_meta'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['ros']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'ros'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['cmake', 'python']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'cmake'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'python'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extensions ['python_setup_py']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src) by extension 'python_setup_py'
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extensions ['ignore', 'ignore_ament_install']
+[0.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extension 'ignore'
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extension 'ignore_ament_install'
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extensions ['colcon_pkg']
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extension 'colcon_pkg'
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extensions ['colcon_meta']
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extension 'colcon_meta'
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extensions ['ros']
+[0.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/prabashwara/voice_ws/src/voice_control_robot_package) by extension 'ros'
+[0.432s] DEBUG:colcon.colcon_core.package_identification:Package '/home/prabashwara/voice_ws/src/voice_control_robot_package' with type 'ros.ament_cmake' and name 'voice_control_robot_package'
+[0.432s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

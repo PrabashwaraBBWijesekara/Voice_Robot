@@ -1,0 +1,30 @@
+[0.013s] Invoking command in '/home/prabashwara/voice_ws/build/voice_control_robot_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --build /home/prabashwara/voice_ws/build/voice_control_robot_package -- -j12 -l12
+[0.055s] Invoked command in '/home/prabashwara/voice_ws/build/voice_control_robot_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --build /home/prabashwara/voice_ws/build/voice_control_robot_package -- -j12 -l12
+[0.094s] Invoking command in '/home/prabashwara/voice_ws/build/voice_control_robot_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --install /home/prabashwara/voice_ws/build/voice_control_robot_package
+[0.101s] -- Install configuration: ""
+[0.101s] -- Execute custom install script
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/voice_cmd_vel.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/random_command_publisher.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/google_voice_recognizer.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/google_voice_recognizer.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/random_command_publisher.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/voice_cmd_vel.py
+[0.102s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/launch/gazebo_robot.launch.py
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/worlds/empty.world
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/package_run_dependencies/voice_control_robot_package
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/parent_prefix_path/voice_control_robot_package
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.sh
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.dsv
+[0.103s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.sh
+[0.104s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.dsv
+[0.104s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.bash
+[0.104s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.sh
+[0.104s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.zsh
+[0.104s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.dsv
+[0.104s] -- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.dsv
+[0.114s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/packages/voice_control_robot_package
+[0.115s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.115s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig.cmake
+[0.115s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig-version.cmake
+[0.116s] -- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.xml
+[0.119s] Invoked command in '/home/prabashwara/voice_ws/build/voice_control_robot_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prabashwara/headless_ws/install/nav2_gps_waypoint_follower_demo:/home/prabashwara/sim_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/iron /usr/bin/cmake --install /home/prabashwara/voice_ws/build/voice_control_robot_package

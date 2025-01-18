@@ -1,0 +1,4 @@
+source;share/voice_control_robot_package/local_setup.bash
+source;share/voice_control_robot_package/local_setup.dsv
+source;share/voice_control_robot_package/local_setup.sh
+source;share/voice_control_robot_package/local_setup.zsh

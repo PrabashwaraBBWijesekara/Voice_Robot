@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/voice_cmd_vel.py
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/random_command_publisher.py
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/random_command_publisher.py
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/voice_cmd_vel.py
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/launch/gazebo_robot.launch.py
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/worlds/empty.world
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/package_run_dependencies/voice_control_robot_package
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/parent_prefix_path/voice_control_robot_package
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.sh
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.dsv
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.bash
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.sh
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.zsh
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.dsv
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.dsv
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/packages/voice_control_robot_package
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig.cmake
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig-version.cmake
+-- Up-to-date symlink: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.xml

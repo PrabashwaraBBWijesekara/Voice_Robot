@@ -1,0 +1,35 @@
+-- Found ament_cmake: 2.0.6 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclpy: 4.1.6 (/opt/ros/iron/share/rclpy/cmake)
+-- Found builtin_interfaces: 1.6.0 (/opt/ros/iron/share/builtin_interfaces/cmake)
+-- Found rosidl_generator_c: 4.0.1 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.0.1 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/prabashwara/voice_ws/build/voice_control_robot_package
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/voice_cmd_vel.py
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/lib/voice_control_robot_package/random_command_publisher.py
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/random_command_publisher.py
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/src/voice_cmd_vel.py
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/launch/gazebo_robot.launch.py
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/worlds/empty.world
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/package_run_dependencies/voice_control_robot_package
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/parent_prefix_path/voice_control_robot_package
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.sh
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/ament_prefix_path.dsv
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.sh
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/environment/path.dsv
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.bash
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.sh
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.zsh
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/local_setup.dsv
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.dsv
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/ament_index/resource_index/packages/voice_control_robot_package
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig.cmake
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/cmake/voice_control_robot_packageConfig-version.cmake
+-- Symlinking: /home/prabashwara/voice_ws/install/voice_control_robot_package/share/voice_control_robot_package/package.xml
