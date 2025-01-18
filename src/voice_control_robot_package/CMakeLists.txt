@@ -17,8 +17,8 @@ find_package(builtin_interfaces REQUIRED)
 install(
   PROGRAMS 
     src/voice_cmd_vel.py
-    src/random_command_publisher.py
-    src/google_voice_recognizer.py
+    src/random_text_publisher.py
+    src/speech_recognizer.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
